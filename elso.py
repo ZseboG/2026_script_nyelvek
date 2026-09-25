@@ -1,2 +1,2 @@
 # elso konzi
-print('Szia!')
+print('Szia Zsebi!')
