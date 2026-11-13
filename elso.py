@@ -4,3 +4,4 @@ felhasznalo_kora = 25
 felhasznalo_kora -= 1
 
 print('Szia','dr.' + felhasznalo_neve,'!', felhasznalo_kora)
+print('hello')
